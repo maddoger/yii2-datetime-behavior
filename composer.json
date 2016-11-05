@@ -1,0 +1,24 @@
+{
+  "name": "maddoger/yii2-datetime-behavior",
+  "description": "Yii2 DateTime Behavior",
+  "keywords": [
+    "yii2",
+    "extension"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vitaliy Syrchikov",
+      "email": "maddoger@gmail.com"
+    },
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "maddoger\\behaviors\\": ""
+    }
+  }
+}
