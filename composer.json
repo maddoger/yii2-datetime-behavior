@@ -11,7 +11,7 @@
     {
       "name": "Vitaliy Syrchikov",
       "email": "maddoger@gmail.com"
-    },
+    }
   ],
   "require": {
     "yiisoft/yii2": "*"
