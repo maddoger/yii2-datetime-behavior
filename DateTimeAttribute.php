@@ -10,14 +10,14 @@ namespace maddoger\behaviors;
 use DateTime;
 use DateTimeZone;
 use Yii;
-use yii\base\Object;
+use yii\base\BaseObject;
 use yii\helpers\FormatConverter;
 
 /**
  * Class DateTimeAttribute
  * @property string $value
  */
-class DateTimeAttribute extends Object
+class DateTimeAttribute extends BaseObject
 {
     /**
      * @var DateTimeBehavior
